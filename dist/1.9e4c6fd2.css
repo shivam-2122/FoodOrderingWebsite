@@ -1,0 +1,43 @@
+.header {
+  border: 1px solid #000;
+  justify-content: space-between;
+  margin: 10px;
+  display: flex;
+}
+
+.nav-items > ul {
+  list-style-type: none;
+  display: flex;
+}
+
+.nav-items > ul > li {
+  padding: 10px;
+}
+
+.logo {
+  width: 80px;
+}
+
+.card {
+  border: 1px solid #000;
+  width: 160px;
+  margin: 10px;
+  padding: 10px;
+}
+
+.card > img {
+  width: 90%;
+}
+
+.RestrauntList {
+  flex-wrap: wrap;
+  display: flex;
+}
+
+.ShimmerCard {
+  background: #d3d3d3;
+  width: 200px;
+  height: 200px;
+  margin: 20px;
+}
+/*# sourceMappingURL=1.9e4c6fd2.css.map */
